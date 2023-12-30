@@ -1,7 +1,11 @@
-##SUPERHEROHUNTER##
-A web application of Marvel characters made of using Marvel API 
-TOOLS USED :
- HTML
- CSS
- JAVASCRIPT
-live at https://roohit12.github.io/superherohunter2.0/
+# SUPERHEROHUNTER
+
+Superherohunter is a web application that showcases Marvel characters, powered by the Marvel API.
+
+## Tools Used
+- HTML
+- CSS
+- JavaScript
+
+## Live Demo
+Explore the application live at [Superherohunter](https://roohit12.github.io/superherohunter2.0/).
